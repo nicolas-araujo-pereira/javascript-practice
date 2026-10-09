@@ -6,7 +6,7 @@ Aqui estão pequenos scripts e projetos desenvolvidos durante meus estudos, orga
 
 📂 Estrutura
 
-🟢 Aloritmos
+🟢 Algoritmos
 
 Projetos focados nos fundamentos da linguagem.
 
