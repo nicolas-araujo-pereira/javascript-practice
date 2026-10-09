@@ -1,6 +1,6 @@
 🚀 JavaScript Practice
 
-Repositório criado para documentar minha evolução nos estudos de JavaScript.
+Repositório criado para documentar minha evolução nos estudos de JavaScript e Git.
 
 Aqui estão pequenos scripts e projetos desenvolvidos durante meus estudos, organizados de acordo com o nível de dificuldade e os conceitos praticados.
 
